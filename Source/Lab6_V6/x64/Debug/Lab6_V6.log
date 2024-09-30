@@ -1,0 +1,8 @@
+﻿  Graph.cpp
+C:\Users\ahieo\OneDrive\Робочий стіл\ПК-51\ПДС\Лаб_6\Source\Lab6_V6\GraphAdding.h(12,2): warning C4091: 'static ': ignored on left of 'CreateGraph' when no variable is declared
+C:\Users\ahieo\OneDrive\Робочий стіл\ПК-51\ПДС\Лаб_6\Source\Lab6_V6\GraphReader.h(29,2): warning C4091: 'static ': ignored on left of 'GraphReader' when no variable is declared
+  GraphReader.cpp
+C:\Users\ahieo\OneDrive\Робочий стіл\ПК-51\ПДС\Лаб_6\Source\Lab6_V6\GraphReader.h(29,2): warning C4091: 'static ': ignored on left of 'GraphReader' when no variable is declared
+C:\Users\ahieo\OneDrive\Робочий стіл\ПК-51\ПДС\Лаб_6\Source\Lab6_V6\PathUtil.h(12,2): warning C4091: 'static ': ignored on left of 'FileValidator' when no variable is declared
+  Generating Code...
+  Lab6_V6.vcxproj -> C:\Users\ahieo\OneDrive\Робочий стіл\ПК-51\ПДС\Лаб_6\Source\Lab6_V6\x64\Debug\Lab6_V6.exe
